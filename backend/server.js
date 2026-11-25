@@ -31,8 +31,8 @@ const IS_PERSISTENT = DATA_DIR === '/data';
    CORS — explicit allowlist + guaranteed OPTIONS handler.
    ═══════════════════════════════════════════════════════════════ */
 const ALLOWED_ORIGINS = [
-  'https://momo-receipt-production.up.railway.app',
-  'https://momo-receipt-production.up.railway.app',
+  'https://momo-banking-receipt-production.up.railway.app',
+  'https://momo-banking-receipt-production.up.railway.app',
   'http://localhost:3000',
   'http://localhost:5173'
 ];
